@@ -1,0 +1,3 @@
+OsztalyesObjektumFeladat.Vonal$Szinek
+OsztalyesObjektumFeladat.Vonal
+OsztalyesObjektumFeladat.Vonal$Stilusok
