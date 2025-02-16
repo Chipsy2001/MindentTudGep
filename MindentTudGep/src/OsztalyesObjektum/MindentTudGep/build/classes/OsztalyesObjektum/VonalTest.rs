@@ -1,0 +1,2 @@
+OsztalyesObjektumFeladat.VonalTeszt
+OsztalyesObjektumFeladat.VonalTest
